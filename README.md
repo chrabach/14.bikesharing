@@ -51,9 +51,9 @@ Figure 7, meant to be viewed in conjunction with Figure 6, illustrates stopping 
 
 Please find the link to the Tableau version of the figures here:
 
-[Link to Tableau](https://public.tableau.com/app/profile/chris7098/viz/14_BikeShare_Challenge/ChallengeStory?publish=yes"Link to Tableau")
+[Link to Tableau](https://public.tableau.com/app/profile/chris7098/viz/14_BikeShare_Challenge/ChallengeStory?publish=yes "Link to Tableau")
 
 
 ## Summary
 
-The main users of the NYC ride share service are men who subscribe to the service and utilize it during rush hour in a relatively concentrated surface area.  Another visualization that would accentuate this analysis would be a display of age of riders utilizing the service, by time of week.  A second visualization might be to represent pricing schedules, which might highlight some of the reasons for the results represented in this analysis. 
+The main users of the NYC ride share service are men who subscribe to the service and utilize it during rush hour in a relatively concentrated geography.  Another visualization that would accentuate this analysis would be a display of age of riders utilizing the service, by time of week.  A second visualization might be to represent pricing schedules, which might highlight some of the reasons for the results reported in this analysis. 
