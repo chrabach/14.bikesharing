@@ -57,3 +57,10 @@ Please find the link to the Tableau version of the figures here:
 ## Summary
 
 The main users of the NYC ride share service are men who subscribe to the service and utilize it during rush hour in a relatively concentrated geography.  Another visualization that would accentuate this analysis would be a display of age of riders utilizing the service, by time of week.  A second visualization might be to represent pricing schedules, which might highlight some of the reasons for the results reported in this analysis. 
+
+------
+**Contact:**
+
+**E-Mail:** chrabach@gmail.com
+
+**Twitter:** @chrabach
